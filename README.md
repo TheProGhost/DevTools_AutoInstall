@@ -48,3 +48,8 @@ cd DevTools_AutoInstall
 ```
 .\devTools_Script.ps1
 ```
+
+- To update all installed packages write following command in **Powershell** running as administrator 
+```
+cup all
+```

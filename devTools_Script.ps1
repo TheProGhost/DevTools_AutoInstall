@@ -26,6 +26,6 @@ Start-Sleep -Seconds 2
 #installing python extension
 choco install vscode-python -y --force
 
-Write-Output "\n================\nRestarting......\n===============\n"
+Write-Output "\n================\nRestarting......\n================\n"
 
 Restart-Computer
