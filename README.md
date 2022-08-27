@@ -17,7 +17,10 @@ Tested on Microsoft Windows 10
 
 ### How to run script
 
-> Clone this repo
+>>> Screenshots will be added in some time as some experiments are going on
+
+Clone this repo
+
 ```
 git clone https://github.com/TheProGhost/DevTools_AutoInstall.git
 ```
