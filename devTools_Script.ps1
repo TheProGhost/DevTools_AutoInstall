@@ -57,6 +57,6 @@ switch($values){
 }
 
 Write-Host "`n`nEverything is installed`n`n"
-Write-Output "`n================`nRestarting......`n===============`n"
+Write-Output "`n================`nRestarting......`n================`n"
 
 Restart-Computer
