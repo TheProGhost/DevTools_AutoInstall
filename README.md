@@ -19,7 +19,7 @@ Tested on Microsoft Windows 10
 
 > Clone this repo
 ```
-git clone 
+git clone https://github.com/TheProGhost/DevTools_AutoInstall.git
 ```
 
 - Run powershell as Administrator 
