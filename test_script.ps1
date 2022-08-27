@@ -1,3 +1,5 @@
+# default editor vscode
+Write-Host "The choice of editor would be VS Code`n`n"
 # select language
 Write-Output "Select Language of your choice:"
 Write-Output "1. C/C++"
