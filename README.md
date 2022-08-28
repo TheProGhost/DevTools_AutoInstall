@@ -28,18 +28,18 @@ git clone https://github.com/TheProGhost/DevTools_AutoInstall.git
 - Run powershell as Administrator 
 
 <div align=center>
-<img src= />
+<img src="./Images/ps_run_admin_png" />
 </div>
 
 - Type below command in powershell and hit Enter
 
 ```
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+Set-ExecutionPolicy -ExecutionPolicy Bypass
 ```
-- Then it will ask for choice. Press 'Y' and hit Enter
+- Then it will ask for choice. Press 'A' and hit Enter
 
 <div align=center>
-<img src= />
+<img src="./Images/ececution_policy.png" />
 </div>
 
 - Now go to the folder
