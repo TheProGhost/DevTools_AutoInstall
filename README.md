@@ -55,6 +55,18 @@ cd DevTools_AutoInstall
 .\devTools_Script.ps1
 ```
 
+- Now, select for which language you want to install.
+<div align=center>
+
+![language_selection]()
+</div>
+
+- You can alsop enter multiple choices seperated by space
+<div align=center>
+
+![multi_language_selection]()
+</div>
+
 - To update all installed packages write following command in **Powershell** running as administrator 
 ```
 cup all
