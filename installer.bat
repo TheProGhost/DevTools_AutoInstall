@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -Command "Start-Process -Verb RunAs powershell -ArgumentList ' -ExecutionPolicy Bypass -File \"%cd%\test_script.ps1"'"
